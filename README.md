@@ -1,6 +1,10 @@
 # Project 1: The Brochure Site
 
-## Problem Statement
+## Learning Objectives
+
+- Build a brochure site
+
+## Introduction
 
 You've been learning HTML and CSS over the previous lessons. You've been
 receiving specific guidance ("Use a `<link>` tag!") and have been steered by
@@ -17,10 +21,6 @@ When the first web sites started to appear in the mid-nineties, _brochure
 sites_ were the _only_ sites on the web. They were called _brochure sites_
 because, well, like _brochures_ they provided static text and images, contact
 information, a few divisions, and had a certain style.
-
-## Learning Objectives
-
-1. Build a brochure site
 
 ## Build a Brochure Site
 
